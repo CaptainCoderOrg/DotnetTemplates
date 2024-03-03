@@ -1,0 +1,9 @@
+{
+    "$schema": "http://json.schemastore.org/template",
+    "author": "Captain Coder",
+    "classifications": [ "Project"],
+    "identity": "CaptainCoder.Template.Project",
+    "name": "Default Project using Captain Coder's .NET Workflow",
+    "shortName": "captaincoder-project",
+    "sourceName": "CaptainCoder.Template.Project"
+}
